@@ -37,7 +37,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
           Align(
             alignment: Alignment.topCenter,
             child: Padding(
-              padding: EdgeInsets.only(top: 280),
+              padding: EdgeInsets.only(top: 270),
               child: Image.asset(
                 AppImages.startTextSplash,
                 width: 200,
